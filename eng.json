@@ -95,6 +95,7 @@
                 "message.queue.leave": "{PREFIX}You left the queue.",
                 "message.locker.player.already.own": "{PREFIX}§c{0}§c already unlocked §b{1}§c.",
                 "message.locker.player.gift": "{PREFIX}§dYou received a gift by §e{0}§d.",
+                "message.language.changed": "{PREFIX}§aYour language has been changed to §b{0}§a.",
 
                 "popup.game.startsIn": "§2The game starts in §o§9{0}",
                 "popup.game.endsIn": "§cThe game ends in §o§9{0}",
@@ -113,6 +114,7 @@
 
 
 
+                "forms.player-settings.title": "Choose a type of stats",
                 "forms.stats.title.choose": "Choose a type of stats",
                 "forms.stats.text.choose": "",
                 "forms.stats.title.ranked": "Ranked stats",
@@ -141,6 +143,9 @@
                 "forms.save": "\n§aSave§r",
                 "forms.delete": "\n§cDelete§r",
                 "forms.edit": "\n§aEdit§r",
+
+                "forms.choose-language.title": "Choose a language",
+                "forms.choose-language.text": "",
 
                 "report.forms.title.reportmanager": "Report Manager",
                 "report.forms.text.reportmanager": "Report Manager",
